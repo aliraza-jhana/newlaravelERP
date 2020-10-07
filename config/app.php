@@ -51,7 +51,7 @@ return [
     | your application so that it is used when running Artisan tasks.
     |
     */
-    // print_r();
+    // print_r("ok");
     'url' => env('APP_URL', 'http://localhost'),
 
     /*
